@@ -13,7 +13,7 @@ This is a single-page website template designed to showcase your portfolio in a 
 ## Features
 
 - **Responsive Design**: Optimized for all devices.
-- **Responsive Design**: Optimized for all devices.
+- **Dark mode**: Light and dark mode support.
 - **Easy Customization**: Modify styles and content effortlessly.
 - **Built with TailwindCSS**: Fast and flexible utility-first CSS.
 - **Swiper.js Integration**: Add smooth carousels and sliders.
