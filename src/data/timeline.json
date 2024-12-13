@@ -1,0 +1,45 @@
+[
+  {
+    "year": "2021 - present",
+    "entries": [
+      {
+        "title": "Senior Frontend Engineer",
+        "company": "Netflix"
+      }
+    ]
+  },
+  {
+    "year": "2016 - 2020",
+    "entries": [
+      {
+        "title": "Frontend Web Developer",
+        "company": "Coca Cola"
+      },
+      {
+        "title": "UI Designer",
+        "company": "ACME Limited"
+      },
+      {
+        "title": "Fullstack Developer",
+        "company": "Freelance"
+      },
+      {
+        "title": "Frontend Web Developer",
+        "company": "ABC Marketing Ltd"
+      }
+    ]
+  },
+  {
+    "year": "2012 - 2015",
+    "entries": [
+      {
+        "title": "Frontend Web Developer",
+        "company": "Freelance"
+      },
+      {
+        "title": "UX Designer",
+        "company": "Microsoft"
+      }
+    ]
+  }
+]

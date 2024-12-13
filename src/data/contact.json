@@ -1,0 +1,16 @@
+[
+  {
+    "name": "email",
+    "value": "hello@email.com",
+    "link": "mailto:hello@email.com"
+  },
+  {
+    "name": "phone",
+    "value": "+44 1234 567 890",
+    "link": "tel:+441234567890"
+  },
+  {
+    "name": "address",
+    "value": "123 Some Street, London, UK"
+  }
+]

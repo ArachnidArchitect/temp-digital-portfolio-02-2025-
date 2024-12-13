@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Twitter",
+    "icon": "x",
+    "link": "https://www.twitter.com"
+  },
+  {
+    "name": "LinkedIn",
+    "icon": "linkedin",
+    "link": "https://www.linkedin.com"
+  },
+  {
+    "name": "GitHub",
+    "icon": "github",
+    "link": "https://www.github.com"
+  }
+]
