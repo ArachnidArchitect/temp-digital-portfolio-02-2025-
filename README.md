@@ -1,7 +1,5 @@
 # Personal Portfolio HTML Tailwind Template
 
-![App Preview](https://github.com/PixelRocket-Shop/personal-portfolio-html-tailwind/blob/main/public/preview.png)
-
 This is a single-page website template designed to showcase your portfolio in a clean and professional way. Built using TailwindCSS Version 4, Vite as the build tool, and Handlebar.js as the template engine, it’s lightweight, responsive, and fully customizable. In addition, the template supports light and dark mode and uses CSS scroll animations (only in browsers that support animate-timeline).
 
 ## App Preview
