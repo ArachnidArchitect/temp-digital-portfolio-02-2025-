@@ -6,7 +6,7 @@ This is a single-page website template designed to showcase your portfolio in a 
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-brightgreen?style=for-the-badge)](https://personal-portfolio-html-tailwind.vercel.app)
 
-![Tailwind Version 4 HTML Personal Portfolio Template](https://github.com/PixelRocket-Shop/personal-portfolio-html-tailwind/blob/main/public/images/preview.png 'Tailwind Version 4 HTML Personal Portfolio Template')
+[![Tailwind Version 4 HTML Personal Portfolio Template](https://github.com/PixelRocket-Shop/personal-portfolio-html-tailwind/blob/main/public/images/preview.png 'Tailwind Version 4 HTML Personal Portfolio Template')](https://personal-portfolio-html-tailwind.vercel.app)
 
 ---
 
