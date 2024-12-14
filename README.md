@@ -100,8 +100,6 @@ This project is licensed under the MIT License.
 
 ---
 
-## Contributing
+## Contact Me
 
-Feel free to contribute by submitting pull requests or reporting issues.
-
-Happy coding!
+You can find my website [here](https://www.pixelrocket.store) with more frontend web developer resources and tutorials or you can email me at support@pixelrocket.store
